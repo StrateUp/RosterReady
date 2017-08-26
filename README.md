@@ -2,7 +2,7 @@
 
 * Clone this repo
 * Run 'npm install'
-* Run 'npm start' or 'nodemon'
+* Run 'npm start'
 
 ### Synopsis
 ***
