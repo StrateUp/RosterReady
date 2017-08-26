@@ -21,7 +21,7 @@ People that are interested in playing, deciding ‘day-of’ availability, can f
 ![graph](https://user-images.githubusercontent.com/17747867/29744030-273d70c0-8a51-11e7-966f-22918356bb49.png)
 
 ***
-#### A landing page will allow users a choice to sign in as a player or a team
+### A landing page will allow users a choice to sign in as a player or a team
 
 ![landingpage](https://user-images.githubusercontent.com/17747867/29744082-1047ce78-8a52-11e7-96c2-bb02f3b59094.png)
 ![signup-login](https://user-images.githubusercontent.com/17747867/29744084-1048b40a-8a52-11e7-9494-68f7a685abd8.png)
