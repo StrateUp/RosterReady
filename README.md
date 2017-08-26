@@ -1,9 +1,5 @@
 # RosterReady
 
-* Clone this repo
-* Run 'npm install'
-* Run 'npm start'
-
 ### Our app is designed as a hub for teams needing players and players ready to play, to connect and fill the team rosters in realtime. 
 
 Life happens and people can’t always make their team commitments, but Roster Ready makes it easy for that team to reach out to a community of participants that can help fill their need. 
@@ -34,3 +30,8 @@ People that are interested in playing, deciding ‘day-of’ availability, can f
 ### If the player/team meet the criteria of a user’s need they will then be promped to sign in or sign up for an account to be able to obtain the  contact information
 
 ***
+
+* Clone this repo
+* Run 'npm install'
+* Run 'npm start'
+
